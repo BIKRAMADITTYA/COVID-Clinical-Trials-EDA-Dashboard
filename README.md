@@ -112,7 +112,7 @@ A plot demonstrating the relationship and distribution of trials across differen
 
 # How to Run the Project (Python EDA)
 
-To replicate the Python EDA and generate the output files:
+How replicate the Python EDA and generate the output files:
 
 1.  **Clone the repository:**
 
@@ -134,17 +134,16 @@ To replicate the Python EDA and generate the output files:
 3.  **Install the required Python packages:**
 
     ```bash
-    pip install -r requirements.txt
+    pip install -r [requirements.txt](https://github.com/BIKRAMADITTYA/COVID-Clinical-Trials-EDA-Dashboard/blob/main/requirements.txt)
     ```
 
 4.  **Run the analysis script:**
 
     ```bash
-    python notebooks/covid 19 eda.py
-    ```
+    python [covid 19 eda.py](https://github.com/BIKRAMADITTYA/COVID-Clinical-Trials-EDA-Dashboard/blob/main/notebooks/covid%2019%20eda.py)
 
----
-
+     ```
+    
 ## How to View the Power BI Dashboard
 
 1.  Ensure you have **Power BI Desktop** installed on your system.
