@@ -63,4 +63,4 @@ COVID-19 Clinical Trials: EDA & Power BI Dashboard/
 
 Explore the data interactively through the Power BI dashboard:
 
- **Dashboard File:** [Clinical Trials Overview Dashboard.pbix] https://github.com/BIKRAMADITTYA/COVID-Clinical-Trials-EDA-Dashboard/blob/main/Clinical%20Trial%20Overview%20Dashboard.pbix
+ * **Dashboard File:** [Clinical Trials Overview Dashboard.pbix](https://github.com/BIKRAMADITTYA/COVID-Clinical-Trials-EDA-Dashboard/blob/main/Clinical%20Trial%20Overview%20Dashboard.pbix)
