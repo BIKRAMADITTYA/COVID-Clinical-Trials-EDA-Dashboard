@@ -51,7 +51,7 @@ COVID-19 Clinical Trials: EDA & Power BI Dashboard/
 │   ├── status_vs_phases.csv
 │   └── trial_counts_over_time.csv
 ├── images/
-│   └── [screenshots of your dashboard or key plots]
+│   └── [screenshots key plots]
 ├── .gitignore
 ├── README.md
 └── requirements.txt
