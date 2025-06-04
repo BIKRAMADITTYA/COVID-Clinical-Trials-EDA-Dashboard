@@ -32,7 +32,10 @@ This project provides an in-depth **Exploratory Data Analysis (EDA)** of global 
 
 ## **Project Structure**
 
-'''COVID-19 Clinical Trials: EDA & Power BI Dashboard/
+---
+
+<pre>
+COVID-19 Clinical Trials: EDA & Power BI Dashboard/
 ├── data/
 │   └── COVID clinical trials.csv
 ├── notebooks/
@@ -48,4 +51,7 @@ This project provides an in-depth **Exploratory Data Analysis (EDA)** of global 
 │   └── [screenshots of your dashboard or key plots]
 ├── .gitignore
 ├── README.md
-└── requirements.txt '''
+└── requirements.txt
+</pre>
+
+---
