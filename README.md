@@ -108,7 +108,9 @@ Status vs. Phases of Clinical Trials:
 A plot demonstrating the relationship and distribution of trials across different statuses and clinical phases.*
 
 ---
-## How to Run the Project (Python EDA)
+
+
+# How to Run the Project (Python EDA)
 
 To replicate the Python EDA and generate the output files:
 
@@ -146,14 +148,8 @@ To replicate the Python EDA and generate the output files:
 ## How to View the Power BI Dashboard
 
 1.  Ensure you have **Power BI Desktop** installed on your system.
-2.  Download the `Clinical Trial Overview Dashboard.pbix` file directly from the root of this repository.
+2.  Download the [Clinical Trial Overview Dashboard.pbix](https://github.com/BIKRAMADITTYA/COVID-Clinical-Trials-EDA-Dashboard/blob/main/Clinical%20Trial%20Overview%20Dashboard.pbix) file directly from the root of this repository.
 3.  Open the downloaded `.pbix` file using Power BI Desktop.
-
----
-
-## Future Enhancements
-
-*Add your specific ideas for future enhancements here.*
 
 ---
 
@@ -163,9 +159,6 @@ Feel free to connect with me if you have any questions, feedback, or would like 
 
 * **GitHub:** [BIKRAMADITTYA's GitHub Profile](https://github.com/BIKRAMADITTYA)
 * **LinkedIn:** [Bikramadittya Nandan on LinkedIn](https://www.linkedin.com/in/bikramadittya-nandan-7b6285151)
-* **Email:** `[Your Email Address (Optional)]`
-
----
 
 
 ---
