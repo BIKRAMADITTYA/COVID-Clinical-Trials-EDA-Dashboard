@@ -52,9 +52,7 @@ COVID-19 Clinical Trials: EDA & Power BI Dashboard/
 │   └── trial_counts_over_time.csv
 ├── images/
 │   └── [screenshots key plots]
-├── .gitignore
-├── README.md
-└── requirements.txt
+
 </pre>
 
 ---
@@ -108,5 +106,66 @@ Status vs. Phases of Clinical Trials:
 ![Status vs Phases of Clinical Trial](https://github.com/user-attachments/assets/2a745942-3596-48a3-9392-0de768047bbc)
 
 A plot demonstrating the relationship and distribution of trials across different statuses and clinical phases.*
+
+---
+## How to Run the Project (Python EDA)
+
+To replicate the Python EDA and generate the output files:
+
+1.  **Clone the repository:**
+
+    ```bash
+    git clone [https://github.com/](https://github.com/)[YourGitHubUsername]/COVID-19-Clinical-Trials-EDA-Dashboard.git
+    cd COVID-19-Clinical-Trials-EDA-Dashboard
+    ```
+
+2.  **Create a virtual environment (recommended):**
+
+    ```bash
+    python -m venv venv
+    # On Windows:
+    .\venv\Scripts\activate
+    # On macOS/Linux:
+    source venv/bin/activate
+    ```
+
+3.  **Install the required Python packages:**
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4.  **Run the analysis script:**
+
+    ```bash
+    python notebooks/covid 19 eda.py
+    ```
+
+---
+
+## How to View the Power BI Dashboard
+
+1.  Ensure you have **Power BI Desktop** installed on your system.
+2.  Download the `Clinical Trial Overview Dashboard.pbix` file directly from the root of this repository.
+3.  Open the downloaded `.pbix` file using Power BI Desktop.
+
+---
+
+## Future Enhancements
+
+*Add your specific ideas for future enhancements here.*
+
+---
+
+## Contact
+
+Feel free to connect with me if you have any questions, feedback, or would like to discuss this project further!
+
+* **GitHub:** [BIKRAMADITTYA's GitHub Profile](https://github.com/BIKRAMADITTYA)
+* **LinkedIn:** [Bikramadittya Nandan on LinkedIn](https://www.linkedin.com/in/bikramadittya-nandan-7b6285151)
+* **Email:** `[Your Email Address (Optional)]`
+
+---
+
 
 ---
