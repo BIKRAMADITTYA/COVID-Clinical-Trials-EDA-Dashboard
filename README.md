@@ -70,3 +70,16 @@ Explore the data interactively through the Power BI dashboard:
    ![Clinical Trial Overview Dashboard](https://github.com/user-attachments/assets/e6666044-6bec-4809-8c29-c16c335ba95d)
 
  * 
+---
+
+## Visualizations/Screenshots
+
+Here are some key visuals from the project:
+![Distribution of Phases](https://github.com/user-attachments/assets/e0f4208e-688a-4148-be67-a30171c4d81f)
+
+*Bar chart showing the distribution of clinical trials across different phases, highlighting the prevalence of Phase 3 trials.*
+
+![Trials Started Over Time](images/trials_over_time.png)
+*Line chart showing the number of trials started each month, revealing trends in research activity.*
+
+---
