@@ -30,23 +30,22 @@ This project provides an in-depth **Exploratory Data Analysis (EDA)** of global 
 
 ---
 
-## **Data Source**
-
-The dataset used for this analysis is `COVID clinical trials.csv`, containing information on clinical trials related to COVID-19.
-* `[Link to dataset source, if publicly available. If not, you can state: "A publicly available dataset on COVID-19 clinical trials."]`
-
----
-
-## **Power BI Dashboard**
-
-Explore the data interactively through the Power BI dashboard:
-
-* **View Dashboard Online:** `[Insert link to your published Power BI dashboard here, if you've published it to Power BI Service. If not, you can remove this line.]`
-* **Dashboard File:** The Power BI dashboard file (`.pbix`) is included in the `power_bi_dashboard/` folder for local viewing.
-
-**Key Dashboard Pages/Insights:**
-* `[Briefly describe 1-2 key sections or types of insights users can find in your dashboard, e.g., "Overview of global trial status distribution," "Trends of trials by intervention type over time," "Breakdown of interventions by study condition."]`
-
----
-
 ## **Project Structure**
+
+COVID-19 Clinical Trials: EDA & Power BI Dashboard/
+├── data/
+│   └── COVID clinical trials.csv
+├── notebooks/
+│   └── covid 19 eda.py
+├── power_bi_dashboard/
+│   └── Clinical Trials Overview Dashboard.pbix
+├── output/
+│   ├── final_cleaned_trials.csv
+│   ├── conditions_outcomes_summary.csv
+│   ├── status_vs_phases.csv
+│   └── trial_counts_over_time.csv
+├── images/
+│   └── [screenshots of your dashboard or key plots]
+├── .gitignore
+├── README.md
+└── requirements.txt
