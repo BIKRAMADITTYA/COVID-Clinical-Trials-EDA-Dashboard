@@ -29,7 +29,10 @@ This project provides an in-depth **Exploratory Data Analysis (EDA)** of global 
 * **Power BI:** For creating a comprehensive, interactive, and shareable data dashboard.
 
 ---
+## Data Source
 
+The dataset used for this analysis is `COVID clinical trials.csv`, containing information on clinical trials related to COVID-19.
+* **Local Copy:** [View Dataset File in this Repository](https://github.com/BIKRAMADITTYA/COVID-Clinical-Trials-EDA-Dashboard/blob/main/COVID%20clinical%20trials.csv) 
 ## **Project Structure**
 
 ---
