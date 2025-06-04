@@ -78,26 +78,31 @@ Explore the data interactively through the Power BI dashboard:
 ![Distribution of Phases](https://github.com/user-attachments/assets/e0f4208e-688a-4148-be67-a30171c4d81f)
 
 *Bar chart showing the distribution of clinical trials across different phases.*
+
 ---
 Trials Started Over Time:
 ![Trial Started over Time](https://github.com/user-attachments/assets/068666a4-2987-4998-90df-895840faec80)
 
 *Bar chart showing the number of trials started each month, revealing trends in research activity.*
+
 ---
 Age Group Distribution:
 ![Age Group Distribution](https://github.com/user-attachments/assets/c03f1c7d-cd44-4b58-9e57-be230b9e454f)
 
 *A visualization illustrating the distribution of participants across different age groups in the clinical trials.*
+
 ---
 Status of Clinical Trial:
 ![Status of clinical Trial](https://github.com/user-attachments/assets/f0e908d4-055e-4d9b-91f5-efec3b1679f5)
 
 *A chart showing the overall status of clinical trials (e.g., Recruiting, Completed, Terminated).*
+
 ---
 Missing Value Count per Column:
 ![missing Values count per Column](https://github.com/user-attachments/assets/33e57eff-56c6-4157-9de7-fddbf42af340)
 
 *A visual representation of the count of missing values for each column in the dataset, indicating data completeness.*
+
 ---
 Status vs. Phases of Clinical Trials:
 ![Status vs Phases of Clinical Trial](https://github.com/user-attachments/assets/2a745942-3596-48a3-9392-0de768047bbc)
